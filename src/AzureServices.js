@@ -8,8 +8,8 @@ const services = [
   { name: "Azure Static Web Apps", type: "Frontend + Serverless API", description: "Modern web apps with global hosting, authentication, and serverless APIs.", icon: "🚀" },
   { name: "Azure App Service", type: "PaaS", description: "Host web apps, RESTful APIs, and mobile backends with auto-scaling.", icon: "🖥️" },
   { name: "Azure Container Apps", type: "Container Hosting", description: "Build and deploy containerized apps with serverless scaling.", icon: "📦" },
-  { name: "Azure Kubernetes Service (AKS)", type: "Orchestrated Containers", description: "Managed Kubernetes for deploying and managing containerized apps.", icon: "☸" },
-  { name: "Azure API Management", type: "API Gateway", description: "Publish, secure, and analyze APIs at scale.", icon: "🔗" }
+//   { name: "Azure Kubernetes Service (AKS)", type: "Orchestrated Containers", description: "Managed Kubernetes for deploying and managing containerized apps.", icon: "☸" },
+//   { name: "Azure API Management", type: "API Gateway", description: "Publish, secure, and analyze APIs at scale.", icon: "🔗" }
 ];
 
 const AzureServices = () => {
